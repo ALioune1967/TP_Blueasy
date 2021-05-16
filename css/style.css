@@ -1,0 +1,77 @@
+.ph {
+  background-image: url(../Images/img1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+}
+
+.cph {
+  background-color: rgba(029, 034, 036, 0.8);
+}
+.nav-item a {
+  text-decoration: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+h1 mark {
+  background-color: #4b565d;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+}
+.logo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+}
+.ecolor {
+  color: #4bcaff;
+}
+.cpm {
+  background-color: #4bcaff;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.titre::before {
+  content: "";
+  position: absolute;
+  margin-top: 35px;
+  width: 50px;
+  height: 3px;
+  background: #fff;
+}
+.pm .cpm .container .titre {
+  margin-bottom: 50px;
+}
+.icon {
+  width: 60px;
+  margin-bottom: 20px;
+}
+.pm .cpm {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.pb {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(../Images/img2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: #fff;
+}
+.btn {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 50px;
+  padding-right: 20px;
+}
+footer {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #4b565d;
+}
+footer a {
+  text-decoration: none;
+  color: #687278;
+}
+footer .container span {
+  margin-left: 10px;
+}
